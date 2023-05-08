@@ -1,7 +1,7 @@
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/controller/AdminController.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/utils/Utils.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/model/Categorie.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/model/Contenu.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/controller/ContenuController.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/dao/HibernateDao.java
-/home/mihaja/Documents/Gitlab/IAContent/IAContent-BO/src/main/java/com/project/iacontent/model/Admin.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/utils/Utils.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/model/Admin.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/controller/AdminController.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/dao/HibernateDao.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/controller/ContenuController.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/model/Contenu.java
+/home/mihaja/Documents/GitHub/Deploiement/IAContent-BO/src/main/java/com/project/iacontent/model/Categorie.java
